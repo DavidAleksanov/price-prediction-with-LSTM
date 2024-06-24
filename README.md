@@ -1,6 +1,6 @@
-# price-prediction-with-LSTM
+# Price Prediction with LSTM
 
-This Python script uses an LSTM (Long Short-Term Memory) neural network to predict cryptocurrency prices based on historical data. The model is trained on past closing prices and can be used to forecast future prices.
+This repository contains a Python script for predicting cryptocurrency prices using LSTM (Long Short-Term Memory) neural networks.
 
 ## Features
 
@@ -22,8 +22,8 @@ This Python script uses an LSTM (Long Short-Term Memory) neural network to predi
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/crypto-price-prediction.git
-    cd crypto-price-prediction
+    git clone https://github.com/yourusername/price-prediction-with-LSTM.git
+    cd price-prediction-with-LSTM
     ```
 
 2. Create and activate a virtual environment (optional but recommended):
@@ -73,3 +73,4 @@ This Python script uses an LSTM (Long Short-Term Memory) neural network to predi
     dropout_rate = 0.2
     model.fit(x_train, y_train, epochs=100, batch_size=32)
     ```
+
