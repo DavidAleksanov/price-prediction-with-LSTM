@@ -22,7 +22,7 @@ This repository contains a Python script for predicting cryptocurrency prices us
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/yourusername/price-prediction-with-LSTM.git
+    git clone https://github.com/daroneeee/price-prediction-with-LSTM.git
     cd price-prediction-with-LSTM
     ```
 
