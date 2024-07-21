@@ -11,7 +11,7 @@ This repository contains a Python script for predicting cryptocurrency prices us
 
 ## Prerequisites
 
-- Python 3.7 or later
+- Python 3.x
 - Pandas
 - NumPy
 - scikit-learn
